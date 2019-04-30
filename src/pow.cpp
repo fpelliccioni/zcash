@@ -14,7 +14,7 @@
 #include "uint256.h"
 #include "util.h"
 
-#include "sodium.h"
+#include <sodium.h>
 
 unsigned int GetNextWorkRequired(const CBlockIndex* pindexLast, const CBlockHeader *pblock, const Consensus::Params& params)
 {

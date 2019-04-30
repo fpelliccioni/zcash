@@ -1,7 +1,7 @@
 // Equihash solver
 // Copyright (c) 2016-2016 John Tromp, The Zcash developers
 
-#include "sodium.h"
+#include <sodium.h>
 #ifdef __APPLE__
 #include "pow/tromp/osx_barrier.h"
 #endif

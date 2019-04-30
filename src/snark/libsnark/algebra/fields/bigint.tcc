@@ -12,7 +12,7 @@
 #include <cassert>
 #include <climits>
 #include <cstring>
-#include "sodium.h"
+#include <sodium.h>
 
 namespace libsnark {
 

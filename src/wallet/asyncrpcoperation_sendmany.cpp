@@ -22,7 +22,7 @@
 #include "script/interpreter.h"
 #include "utiltime.h"
 #include "zcash/IncrementalMerkleTree.hpp"
-#include "sodium.h"
+#include <sodium.h>
 #include "miner.h"
 #include "wallet/paymentdisclosuredb.h"
 

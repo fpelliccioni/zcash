@@ -13,7 +13,7 @@
 #include <assert.h>
 #include <string.h>
 
-#include "sodium.h"
+#include <sodium.h>
 #include "compat/endian.h"
 
 #if defined(NDEBUG)

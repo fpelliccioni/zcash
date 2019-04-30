@@ -13,7 +13,7 @@
 #include "test/test_bitcoin.h"
 #include "uint256.h"
 
-#include "sodium.h"
+#include <sodium.h>
 
 #include <sstream>
 #include <set>

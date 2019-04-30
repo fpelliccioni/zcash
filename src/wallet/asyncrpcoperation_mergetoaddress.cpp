@@ -16,7 +16,7 @@
 #include "rpc/protocol.h"
 #include "rpc/server.h"
 #include "script/interpreter.h"
-#include "sodium.h"
+#include <sodium.h>
 #include "timedata.h"
 #include "util.h"
 #include "utilmoneystr.h"

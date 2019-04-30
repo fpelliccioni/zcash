@@ -30,7 +30,7 @@
 #include "wallet/asyncrpcoperation_sendmany.h"
 #include "wallet/asyncrpcoperation_shieldcoinbase.h"
 
-#include "sodium.h"
+#include <sodium.h>
 
 #include <stdint.h>
 

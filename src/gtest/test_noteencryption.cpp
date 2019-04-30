@@ -1,5 +1,5 @@
 #include <gtest/gtest.h>
-#include "sodium.h"
+#include <sodium.h>
 
 #include <array>
 #include <stdexcept>

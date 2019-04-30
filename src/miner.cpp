@@ -30,7 +30,7 @@
 #include "utilmoneystr.h"
 #include "validationinterface.h"
 
-#include "sodium.h"
+#include <sodium.h>
 
 #include <boost/thread.hpp>
 #include <boost/tuple/tuple.hpp>

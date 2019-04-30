@@ -13,7 +13,7 @@
 #include "test/test_bitcoin.h"
 #include "util.h"
 #include "version.h"
-#include "sodium.h"
+#include <sodium.h>
 
 #include <iostream>
 #include <random>

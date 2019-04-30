@@ -20,7 +20,7 @@
 #include "script/sign.h"
 #include "primitives/transaction.h"
 
-#include "sodium.h"
+#include <sodium.h>
 
 #include <array>
 #include <map>

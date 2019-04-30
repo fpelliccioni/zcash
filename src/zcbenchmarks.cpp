@@ -20,7 +20,7 @@
 #include "pow.h"
 #include "rpc/server.h"
 #include "script/sign.h"
-#include "sodium.h"
+#include <sodium.h>
 #include "streams.h"
 #include "txdb.h"
 #include "utiltest.h"
